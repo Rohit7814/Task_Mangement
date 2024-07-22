@@ -29,20 +29,6 @@ Capture ideas, thoughts, and important information effortlessly.
 
 Edit and organize notes with rich text formatting and multimedia attachments.
 
-# DEMO
-## Login Page
-![Screenshot (55)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/e6c16d98-9342-4d37-b17c-7035fcbd77dd)
-## Home Page
-![Screenshot (65)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/d9e4fc89-d1ad-4604-b610-6842e5e71b48)
-## To-Do Page
-![Screenshot (61)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/45f2bb36-08db-4e4e-9c6d-ea84845469b1)
-## Task Page
-![Screenshot (62)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/0ac74f42-3851-4102-a2f9-ee609ded1eba)
-## Notes Page
-![Screenshot (63)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/a5726406-2b8b-445b-8ee9-01bd1e64d79c)
-## Dark - Mode
-![Screenshot (64)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/30f8cd99-c136-4721-b552-6a146827ed88)
-
 ## Technologies Used
 
 - **Frontend:**
@@ -96,8 +82,6 @@ If you are going Authenticate with Facebook and Google Through PassportJs Stratg
 ```
 GOOGLE_CLIENT_ID = your google app clint id
 GOOGLE_CLIENT_SECRET = your google app client secret
-FACEBOOK_CLIENT_ID = your facebook app clint id
-FACEBOOK_CLIENT_SECRET = your facebook app client secret
 FRONTEND_DOMAIN = you react app url with port
 SESSION_SECRET = anything you want
 JWT_SECRET_KEY = anything you want
